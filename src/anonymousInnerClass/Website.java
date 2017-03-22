@@ -1,4 +1,4 @@
-package AnonymousInnerClass;
+package anonymousInnerClass;
 
 class ProgrammerInterview  {
 	public void read() {

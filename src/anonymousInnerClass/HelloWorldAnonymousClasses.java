@@ -1,4 +1,4 @@
-package AnonymousInnerClass;
+package anonymousInnerClass;
 
 public class HelloWorldAnonymousClasses {
 	  

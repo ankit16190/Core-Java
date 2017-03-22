@@ -1,7 +1,7 @@
 /**
  * 
  */
-package Environment;
+package environment;
 
 import java.util.Map;
 

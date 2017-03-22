@@ -1,7 +1,7 @@
 /**
  * 
  */
-package AnonymousInnerClass;
+package anonymousInnerClass;
 
 /**
  * @author Ankit Singhal

@@ -1,6 +1,6 @@
-package StaticInnerClass;
+package staticInnerClass;
 
-import StaticInnerClass.OuterClass.InnerClass;
+import staticInnerClass.OuterClass.InnerClass;
 
 class OuterClass{
 	   private static String msg = "Wassup!!!";
